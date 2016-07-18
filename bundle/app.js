@@ -22,7 +22,7 @@ $(document).ready(function () {
         trial: 3,
         cache: 3,
         volume: 0.5,
-        url: "search.php",
+        url: "http://slb-cn.hub.moe/echo/ZzzFM/search.php",
         size: "?param=360y360",
         source: "https://github.com/Aqours/ZzzFM",
         load: function () {
